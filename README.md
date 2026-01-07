@@ -1,7 +1,7 @@
 # Automate with Hashir 🤖
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mr-Ash-|AI-AUTOMATION-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ash.automates_yt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mr.%20Hash-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mr-ash)
+[![YouTube](https://img.shields.io/badge/YouTube-Mr%20Ash%20|%20AI%20Automation-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ash.automates_yt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mr%20Ash-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mr-ash)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-teal?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ash@mrhash.site)
 
 ## 🚀 Overview
